@@ -384,9 +384,10 @@ li {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  gap: 3rem;
   /* align-items: center; */
 }
 
 .animation-container video {
-  width: 75%;
+  width: 90%;
 }
