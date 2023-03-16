@@ -48,6 +48,7 @@ p {
 
 .caption-container {
   margin-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .main-heading,
@@ -223,13 +224,6 @@ li {
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-.carousel--progress {
-  position: relative;
-  padding-top: 75%;
-  filter: drop-shadow(0 0 10px #0003);
-  perspective: 100px;
 }
 
 .carousel__viewport {
